@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-abce
-=======
 abcd
->>>>>>> newfeature2
 def
 ghk
 12131
